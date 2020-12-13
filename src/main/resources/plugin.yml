@@ -1,0 +1,6 @@
+name: SoilSolace
+version: ${project.version}
+main: com.github.ms5984.soilsolace.SoilSolace
+api-version: 1.16
+authors: [ ms5984 ]
+description: Finally get some renewable Dirt up in here!
